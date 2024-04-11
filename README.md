@@ -1,7 +1,7 @@
 ### Website COPOM
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/website-copom/issues/1#issue-2236760094" />
+    <img src="https://github.com/alexandrefreitass/website-copom/assets/109884524/28c0d171-b932-4966-87a1-f3bab6f5f4f6"/>
 </div>
 <br/>
 O projeto é uma aplicação web completa desenvolvida em PHP e conectada a um banco de dados MySQL. Ele oferece uma solução abrangente para o gerenciamento de chamados de suporte técnico, 
