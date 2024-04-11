@@ -1,7 +1,7 @@
 ### Website COPOM
 
 <div align="center">
-    <img src="![home-page-telematica](https://github.com/alexandrefreitass/website-copom/assets/109884524/ea974dba-9150-4566-9eda-674e7c65d342)" />
+    <img src="![home](https://github.com/alexandrefreitass/website-copom/assets/109884524/28c0d171-b932-4966-87a1-f3bab6f5f4f6)" />
 </div>
 <br/>
 O projeto é uma aplicação web completa desenvolvida em PHP e conectada a um banco de dados MySQL. Ele oferece uma solução abrangente para o gerenciamento de chamados de suporte técnico, 
