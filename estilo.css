@@ -1,0 +1,69 @@
+/* HEADER */
+#menuheader{width: 20%; height: 100%; text-align: center;}
+#loginheader{width: 50%; height: 100%; }
+#nomeuserheader{text-transform: capitalize;}
+#nomeuserheader2{text-transform: capitalize; font-weight: 500;}
+#textologinheader{color: #e3e3e3; font-weight: 500;}
+#botaologinheader{background-color: #262626; color: white;}
+#menu{text-align: center; float:right; padding: 25px 0px;}
+#divlogin{height: 100%; width: 100%;}
+#menu a{ text-decoration: none; padding: 25px 50px; color: #e3e3e3; text-shadow: 1px 1px 1px #111;  font-weight: 600;}
+#menu a:hover{ background-color:#1a1c2b; }
+#menudeslogado{ float:right; padding: 25px 0px;}
+#menudeslogado a{ text-decoration: none; padding: 25px 50px; color: #e3e3e3; text-shadow: 1px 1px 1px #111; }
+#menudeslogado a:hover{ background-color:#44b874; }
+#divmenuheader{border-top: 5px solid #273b7a; background-color: #111}
+#labelinserirmissao{margin-bottom: 5px;}
+#headercontainer{width: 100%; height: 100%;}
+
+/* ESTILO.CSS */
+*{ margin: 0; padding: 0; }
+body{height: 100%; width: 100%; font-family: helvetica, arial; font-size: 16px; color:#333; }
+header{height: 100%; width: 100%; background-color:#262626; }
+
+/* PÁGINAS */
+#tabula{min-height: 100%; width: 100%; min-height: 800px;padding: 0; margin: 0;}
+#tabula2{margin: 0 auto; width: 100%; padding: 0;}
+#tabula3{width: 100%;padding: 0; margin: 0;}
+#tabula4{width: 100%;padding: 0; margin: 0;}
+#chamados{width: 100%;padding: 0; margin: 0; border: 1px solid gray; border-collapse: collapse;}
+#missoes{width: 100%;padding: 0; margin: 0; border: 1px solid gray; border-collapse: collapse;}
+#inventario{width: 100%;padding: 0; margin: 0; border: 1px solid gray; border-collapse: collapse;}
+#theadpaginas{background-color:  #6c757d;}
+#tableth{font-weight: 800;}
+#divlermais{width: 100%; padding: 0; margin: 0;}
+#divlermais2{margin-right: 6px;}
+#diveditar{margin-right: 4px;}
+#divdeletar{margin-right: 3px;}
+#botaoinserir{background-color: #6c757d;color:black;font-weight: bold;}
+#botaoinserir:hover{background-color: white;}
+#tamanhoicon{font-size: 17px;}
+
+/* CLASSES */
+.delete{color:  #273b7a;}
+
+@media screen and (min-width: 10px) and (max-width: 1400px) {
+.resolucaogrande1 {display: none;}
+.resolucaopequena1 {display: block;/* ou inline, inline-block */}
+}
+
+
+@media screen and (min-width: 1400px) and (max-width: 10000px) {
+.resolucaogrande1 {display: block;/* ou inline, inline-block */}
+.resolucaopequena1 {display: none;}
+}
+
+@media screen and (min-width: 10px) and (max-width: 1100px) {
+.resolucaogrande2 {display: none;}
+.resolucaopequena2 {display: block;/* ou inline, inline-block */}
+}
+
+@media screen and (min-width: 1100px) and (max-width: 10000px) {
+.resolucaogrande2 {display: block;/* ou inline, inline-block */}
+.resolucaopequena2 {display: none;}
+}
+
+
+ 
+
+

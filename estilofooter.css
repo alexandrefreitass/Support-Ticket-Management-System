@@ -1,0 +1,20 @@
+footer{ height: 10%; width: 100%;  }
+#corpofooter{height: 100%; width: 100%; padding: 5px 5px; background-color: #1a1c2b; border-top: 6px solid #273b7a;}
+#logosfooter{width: 33%; height: 100%; padding: 5px 5px;}
+#divlogofooter{width: 90%; height: 90%;}
+#logosunitariosfooter{width: 100%; height: 100%;}
+#pngfooter{width: 50%; height: 30%;}
+#informacoesfooter{height: 100%; width: 100%; background-color: #273b7a; align-items: center;  justify-content: center; padding: 5px 5px;}
+#informacoes1{height: 100%; width: 33%;}
+#informacoes2{height: 100%; width: 33%;}
+#informacoes3{height: 100%; width: 33%;}
+#centralizarfooter{width: 100%; height: 100%; text-align: center; align-items: center; justify-content: center; color: white; font-weight: 500;}
+#principalspan{font-weight: 500; color: #d5a827; text-align: center;}
+#secundariospan{font-weight: 400; color: #e3e3e3;}
+a {
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: #273b7a;
+}

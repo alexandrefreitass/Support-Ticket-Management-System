@@ -1,0 +1,11 @@
+#ul {list-style: none;}
+#warning {background: orange; padding: 2px 2px; border-radius: 4%; display: inline-block; color: white; font-weight: bold;}
+#sucess {background: green; padding: 2px 2px; border-radius: 4%; display: inline-block; color: white; font-weight: bold;}
+#alert {background: gold; padding: 2px 12px 2px 2px; border-radius: 4%; display: inline-block; color: white; font-weight: bold;}
+#stop {background: red; padding: 2px 12px 2px 2px; border-radius: 4%; display: inline-block; color: white; font-weight: bold;}
+
+.boch {display:inline-block; height: 10px; width: 10px; margin-right: 3px; border-radius: 50%;}
+.concluido {background: green;}
+.nafila {background: gold;}
+.parado {background: red;}
+.emandamento {background: orange;}
