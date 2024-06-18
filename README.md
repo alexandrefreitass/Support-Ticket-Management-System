@@ -1,4 +1,4 @@
-### Website COPOM
+## Website COPOM
 
 <div align="center">
     <img src="https://github.com/alexandrefreitass/website-copom/assets/109884524/28c0d171-b932-4966-87a1-f3bab6f5f4f6"/>
@@ -13,19 +13,19 @@ Os usuários podem criar novos chamados, fornecendo detalhes sobre os problemas 
 Os chamados podem ser atribuídos a membros específicos da equipe.
 Informações como prioridade, status e data de criação são registradas para cada chamado.
     
-# Gerenciamento de Metas:
+### Gerenciamento de Metas:
 
 Os supervisores podem definir metas para a equipe, especificando detalhes como descrição, prazo e responsável pela execução.
 Eles podem acompanhar o progresso das metas e fazer ajustes conforme necessário.
 O sistema permite o monitoramento do status das metas.
 
-# Autenticação de Usuário:
+### Autenticação de Usuário:
 
 Um sistema de autenticação é implementado para garantir que apenas usuários autorizados possam acessar e manipular informações críticas, como chamados e metas.
 Cada usuário tem suas próprias credenciais de login, garantindo segurança e controle sobre as ações realizadas no sistema.
 
 
-## Rodando localmente
+### Rodando localmente
 
 Clone o projeto
 
