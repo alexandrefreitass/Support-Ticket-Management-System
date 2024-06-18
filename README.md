@@ -9,20 +9,20 @@ definição de metas e monitoramento do progresso das mesmas. Abaixo estão as p
 
 ### Controle de Chamados:
 
-    Os usuários podem criar novos chamados, fornecendo detalhes sobre os problemas ou solicitações que exigem atenção da equipe técnica.
-    Os chamados podem ser atribuídos a membros específicos da equipe.
-    Informações como prioridade, status e data de criação são registradas para cada chamado.
+Os usuários podem criar novos chamados, fornecendo detalhes sobre os problemas ou solicitações que exigem atenção da equipe técnica.
+Os chamados podem ser atribuídos a membros específicos da equipe.
+Informações como prioridade, status e data de criação são registradas para cada chamado.
     
 # Gerenciamento de Metas:
 
-    Os supervisores podem definir metas para a equipe, especificando detalhes como descrição, prazo e responsável pela execução.
-    Eles podem acompanhar o progresso das metas e fazer ajustes conforme necessário.
-    O sistema permite o monitoramento do status das metas.
+Os supervisores podem definir metas para a equipe, especificando detalhes como descrição, prazo e responsável pela execução.
+Eles podem acompanhar o progresso das metas e fazer ajustes conforme necessário.
+O sistema permite o monitoramento do status das metas.
 
 # Autenticação de Usuário:
 
-    Um sistema de autenticação é implementado para garantir que apenas usuários autorizados possam acessar e manipular informações críticas, como chamados e metas.
-    Cada usuário tem suas próprias credenciais de login, garantindo segurança e controle sobre as ações realizadas no sistema.
+Um sistema de autenticação é implementado para garantir que apenas usuários autorizados possam acessar e manipular informações críticas, como chamados e metas.
+Cada usuário tem suas próprias credenciais de login, garantindo segurança e controle sobre as ações realizadas no sistema.
 
 
 ## Rodando localmente
