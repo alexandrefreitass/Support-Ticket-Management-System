@@ -60,6 +60,6 @@ Execute o xampp e start no apache e mysql:
 ```
 
 
-# Licença
+### Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/alexandrefreitass/website-copom/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
